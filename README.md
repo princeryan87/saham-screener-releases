@@ -75,5 +75,7 @@ Anda bisa memberikan dukungan lewat QRIS yang muncul di pop-up saat
 Anda menutup aplikasi. Dukungan apapun sangat dihargai 🙏
 
 ---
+untuk aplikasi screening crypto download disini: https://github.com/princeryan87/cryptostrat-release/
+---
 
 Dibuat oleh: Muslimin Juni
